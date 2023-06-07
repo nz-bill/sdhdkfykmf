@@ -8,6 +8,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         var x = 20
+
+     
+        var y = 35
+
+
+        var z = 56
+
     }
 }
